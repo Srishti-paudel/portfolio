@@ -1,9 +1,9 @@
 
-import Form from "./form";
+import Contact from "./form";
 
 export default function Page() {
     return <h1>
-<Form />
+<Contact/>
 
 
 
