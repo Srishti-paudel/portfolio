@@ -39,7 +39,7 @@ export default function Contact() {
       <div className="max-w-3xl mx-auto text-center">
         <h1 className="text-5xl font-bold text-purple-700 mb-6">Contact Me</h1>
         <p className="text-gray-700 mb-12">
-          Got an idea or opportunity? I'd love to connect. Fill out the form below or email me directly.
+          Got an idea or opportunity? I would love to connect. Fill out the form below or email me directly.
         </p>
 
         {!submitted ? (
